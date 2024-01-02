@@ -1,0 +1,8 @@
+version: '3'
+services:
+  react-app:
+    image: capstone
+    ports:
+      - 80:80
+
+
