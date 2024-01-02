@@ -1,4 +1,3 @@
 #!/bin/bash
-imagename="capstone"
-docker build -t capstone .
+docker build -t viswanathan16/master .
 
